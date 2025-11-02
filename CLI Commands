@@ -1,9 +1,9 @@
 radio profile Radio-2.4GHz band-steering enable
-radio profile Radio-2.4GHz band-steering prmode prefer-5g
+radio profile Radio-2.4GHz band-steering mode prefer-5g
 radio profile Radio-2.4GHz band-steering prefer-5g suppression-limit 3
 radio profile Radio-2.4GHz weak-snr-suppress enable
 radio profile Radio-2.4GHz weak-snr-suppress threshold 25
-radio profile Radio-5GHz weak-snr-suppress nable
-radio profile Radio-5GHz weak-snr-suppress threshold 25
 radio profile Radio-2.4GHz tx-beamforming auto
+radio profile Radio-5GHz weak-snr-suppress enable
+radio profile Radio-5GHz weak-snr-suppress threshold 25
 radio profile Radio-5GHz tx-beamforming auto
